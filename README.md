@@ -14,7 +14,6 @@ Ou usando o NPM:
 npm install
 npm run test
 ```
-# customer-success-balancing
 
 # Ruby
 ## Como rodar os testes
@@ -24,5 +23,3 @@ No terminal, execute os comandos:
 ```
 ruby customer_success_balancing.rb
 ```
-
-# customer-success-balancing
