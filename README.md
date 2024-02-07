@@ -4,7 +4,6 @@
 No terminal, execute os comandos:
 
 ```bash
-cd javascript
 yarn
 yarn test
 ```
@@ -12,8 +11,18 @@ yarn test
 Ou usando o NPM:
 
 ```bash
-cd javascript
 npm install
-npm test
+npm run test
 ```
+# customer-success-balancing
+
+# Ruby
+## Como rodar os testes
+
+No terminal, execute os comandos:
+
+```
+ruby customer_success_balancing.rb
+```
+
 # customer-success-balancing
