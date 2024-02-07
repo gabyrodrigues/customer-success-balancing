@@ -26,8 +26,6 @@ function customerSuccessBalancing(
 
   const mostCustomersCS = calculateCSWithMostCustomers(customerSuccessAvailableOrdered);
 
-  console.log("CS with the most customers:", mostCustomersCS);
-
   return mostCustomersCS.id;
 }
 
